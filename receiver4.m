@@ -1,3 +1,6 @@
+% @author: XZZ
+% @function: Receiving part of the extended system, 4 input signals.
+
 load handel;
 load 'DemodFilter.mat';
 [y,Fs] = audioread('composite_4radios.wav');
