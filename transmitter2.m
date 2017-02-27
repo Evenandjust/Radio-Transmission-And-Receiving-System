@@ -1,3 +1,6 @@
+% @author: XZZ
+% @function: Transmitting part of the system, with two input signals.
+
 % load handel;
 f1 = 6000;
 f2 = 15000;
