@@ -1,3 +1,6 @@
+% @author: XZZ
+% @function: Receiving part of the system, in frequency domain.
+
 % load handel;
 load 'DemodFilter.mat';
 [y,Fs] = audioread('composite_2radios.wav');
