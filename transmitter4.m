@@ -1,3 +1,6 @@
+% @author: XZZ
+% @function: Transmitting part of the extended system, 4 input signals.
+
 % load handel;
 % s1 = input('Input the 1st audio filename: ','s');
 % s2 = input('Input the 2nd audio filename: ','s');
